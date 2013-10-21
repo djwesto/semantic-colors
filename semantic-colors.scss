@@ -1,0 +1,20 @@
+/**
+ * A semantic approach to defining reusable color schemes
+ */
+
+// Light or Dark?
+@import 'light';
+//@import 'dark';
+
+// General branded colors
+
+$base-color: red;
+$base-color-lighter: mix($base-color, #FFF, 80%);
+
+// Accents
+$accent-1: lightblue;
+$accent-1-lighter: mix($accent-1, #FFF, 80%);
+
+// Accent2
+$accent-2: lightgreen;
+$accent-2-lighter: mix($accent-2, #FFF, 80%);
