@@ -1,4 +1,8 @@
-semantic-colors
+Semantic Colors
 ===============
 
-A starter-kit for semantic color naming
+A SASS / Compass starter-kit for defining color schemes.
+
+Features names which are easily interchangable with any colors.
+
+Useful for designing in the browser!
