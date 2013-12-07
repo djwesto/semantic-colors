@@ -1,7 +1,23 @@
 /**** Dark Color scheme ****/
 
 // Main page background
-$dark-background: #0E0E0E;
+$background-page: #111111;
 
+// Main text color
+$text: #EEEEEE;
 
-$text: #FFFFFF;
+// Alternate text color
+$text-standout: #FFFFFF;
+
+// Secondary Background
+// For the background color of things like sidebar blocks, headers & footers
+$background-secondary: #CCCCCC;
+
+// Text color for text on top of dark backgrounds
+$text-over-background-secondary: #000000;
+
+// For positive actions, such as submit buttons
+$positive: #4D8F46;
+
+// For negative actions, such as delete buttons
+$negative: #B73939;

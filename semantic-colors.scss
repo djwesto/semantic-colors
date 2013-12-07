@@ -6,15 +6,19 @@
 @import 'light';
 //@import 'dark';
 
-// General branded colors
-
+// Base Brand Color
 $base-color: red;
 $base-color-lighter: mix($base-color, #FFF, 80%);
 
-// Accents
+// Accent 1
 $accent-1: lightblue;
 $accent-1-lighter: mix($accent-1, #FFF, 80%);
 
-// Accent2
+// Accent 2
 $accent-2: lightgreen;
 $accent-2-lighter: mix($accent-2, #FFF, 80%);
+
+// Heading colors
+$heading-font-color-1: $base-color;
+$heading-font-color-2: $accent-2;
+$heading-font-color-3: $text-standout;
